@@ -21,8 +21,8 @@
 
 📫 Get in Touch
 
-- **GitHub**: [@jasongong111]
-- **Personal Website**: [@jason-gong.com]
+- **GitHub**: [jasongong111]
+- **Personal Website**: [jason-gong.com]
 - **Email**: [jasongonghk@gmail.com]
 
 ---
