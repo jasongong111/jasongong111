@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Jason Gong 👋
 
-<!--
-**jasongong111/jasongong111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📊 Contribution Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[jasongong111]&show_icons=true&theme=radical)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=[jasongong111]&theme=radical)
+
+📫 Get in Touch
+
+GitHub: [@jasongong111]
+Personal Website: [jason-gong.com]
+Email: [jasongonghk@gmail.com]
+
+
+Feel free to explore my pinned repositories below or reach out if you’d like to collaborate on something exciting!
